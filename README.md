@@ -1,6 +1,6 @@
 # ICA-in-Cancer-research-review-materials
 
-Dependencies:
-- sklearn (installation: https://scikit-learn.org/stable/install.html)
-- ipywidgets (installation: https://ipywidgets.readthedocs.io/en/stable/user_install.html)
-- (optional) jupyterthemes (installation: https://github.com/dunovank/jupyter-themes)
+Jupyter Notebook containing example of Independent Component Analysis (ICA) accompanying the review in Internal Journal of Molecular Sciences (IJMS)
+
+Dependencies and versions are available in the [Requirements](./Jupyter_notebook_package_requirements.txt) file.
+This notebook has been done with Python 3.7.3 (v3.7.3:ef4ec6ed12).
